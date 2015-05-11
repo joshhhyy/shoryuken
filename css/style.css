@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+}
+.foreign {
+  color: green;
+}
+
+.highlight {
+  font-family: Arial;
+  color: pink;
+}
+
+.container {
+  border: 1px solid green;
+  width: 960px;
+  margin: auto;
+}
+
+div {
+  background-color:grey;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+}
+
+.green {
+  background-color: green;
+}
+
+a {
+  color: red;
+}
+
+a:hover {
+  font-size = 150%;
+  color: black;
+}
+
+a:active {
+  color: pink;
+}
+
+a:visited {
+  color: green;
+}
